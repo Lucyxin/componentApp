@@ -1,0 +1,8 @@
+/* 基本图文组件样式 */
+
+/*为组件添加通用的图文样式*/
+.h5_component{
+	background-size:100%;/*让图片撑满整个元素大小*/	
+	background-repeat:no-repeat;
+	position:absolute;/*认为所有元素都处在浮动状态*/
+	}
